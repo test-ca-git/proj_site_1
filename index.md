@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # What a headache?
 
+Nobody likes a smart alec.
 -----
 
 Playing around with github pages.
